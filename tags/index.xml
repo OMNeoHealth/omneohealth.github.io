@@ -1,50 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Oxford Maternal and Neonatal Health</title>
-    <link>https://omneohealth.org/tags/</link>
-    <description>Recent content in Tags on Oxford Maternal and Neonatal Health</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 30 Apr 2018 12:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://omneohealth.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Tags | </title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
     
     <item>
-      <title>open data kit</title>
-      <link>https://omneohealth.org/tags/open-data-kit/</link>
-      <pubDate>Mon, 30 Apr 2018 12:00:00 +0000</pubDate>
-      
-      <guid>https://omneohealth.org/tags/open-data-kit/</guid>
+      <title>Source Themes</title>
+      <link>/tags/source-themes/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/source-themes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tutorials</title>
-      <link>https://omneohealth.org/tags/tutorials/</link>
-      <pubDate>Mon, 30 Apr 2018 12:00:00 +0000</pubDate>
-      
-      <guid>https://omneohealth.org/tags/tutorials/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://omneohealth.org/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://omneohealth.org/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
-    </item>
-    
-    <item>
-      <title>papua-new-guinea</title>
-      <link>https://omneohealth.org/tags/papua-new-guinea/</link>
+      <title>Deep Learning</title>
+      <link>/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://omneohealth.org/tags/papua-new-guinea/</guid>
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/academic/</guid>
       <description></description>
     </item>
     
